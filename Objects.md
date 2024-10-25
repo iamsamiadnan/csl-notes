@@ -1,0 +1,17 @@
+```js
+const person1 = {
+	firstName: 'Adnan',
+	lastName: 'Sami',
+	address: {
+		city: 'Dhaka',
+		postalCode: '1212',
+	}
+}
+
+const clone = {...person1}; // const clone = JSON.parse(JSON.stringify(person1));
+clone.firstName = 'Ahmed';
+clone.address.city = 'Khulna';
+
+console.log(person1);
+console.log(clone);
+```

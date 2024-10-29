@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DOM/1. HTML DOM/1. HTML DOM.md",
+                "file": "Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. HTML DOM"
+              "title": "MOD 001 - Create Account"
+            }
+          },
+          {
+            "id": "4fff6849ac327338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Console Project - Banking System/MOD 001/MOD 001 - Create Account Page UI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOD 001 - Create Account Page UI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 458.5
   },
   "right": {
     "id": "417867d3b7a5ea46",
@@ -162,11 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9693f3a99b7ef8b5",
+  "active": "7a7247d277f9506b",
   "lastOpenFiles": [
-    "1. JS Basics/6. Common Problems/6. Common Problems.md",
-    "Console Project - Banking System/Create Account.md",
+    "Console Project - Banking System/MOD 001",
+    "Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
+    "Console Project - Banking System/MOD 001/MOD 001 - Create Account Page UI.md",
+    "Console Project - Banking System/MOD 001/Pasted image 20241029230521.png",
+    "SRS for ${Project Name}.md",
     "2. DOM/1. HTML DOM/1. HTML DOM.md",
+    "1. JS Basics/6. Common Problems/6. Common Problems.md",
     "Console Project - Banking System",
     "Pasted image 20241028155305.png",
     "Pasted image 20241028154445.png",
@@ -178,7 +197,6 @@
     "1. JS Basics/6. Common Problems",
     "1. JS Basics/3. Array-Operations/3. Array-Operations.md",
     "1. JS Basics/3. Array-Operations/Implicit Global Variable.md",
-    "SRS for ${Project Name}.md",
     "1. JS Basics/4. Common-Math Functions/4. Common-Math Functions.md",
     "1. JS Basics/4. Common-Math Functions/Math.max() - Math.min() -Infinty Vs Infinity.md",
     "1. JS Basics/5. JS Date Time/5. JS Date Time.md",

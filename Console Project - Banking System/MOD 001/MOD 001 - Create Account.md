@@ -60,3 +60,13 @@ export function isUserExists(_user, _accounts) {
     return false;
 }
 ```
+
+## Taking Input from CLI
+
+```bash
+npm i prompt-sync
+```
+
+https://github.com/heapwolf/prompt-sync 
+
+[[MOD 001 - Create Account Page UI]]

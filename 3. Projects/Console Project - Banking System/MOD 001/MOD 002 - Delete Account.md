@@ -30,26 +30,22 @@ export default DeleteAccountPage;
 ```js
 // utils .js
 
-function isUserExistsById(id, _users) {
-    for(const user of _users) { // account = user
-        if(user.id === id) return user;
-    }
-
-    return null;
-}
-
-// Delete Account
 export function deleteAccount(id, _users) {
-    const userExists = isUserExistsById(id, _users);
+    if(!id) return { statusCode: 409, error: true, message: "Enter Valid ID." };
+    
+    let isUserExists = false;
 
-    if(userExists) {
-       const index = userExists.id - 1;
-        _users.splice(index, 1)
-        return {statusCode: 200, error: false, message: 'The Account Is Deleted.'}
+    for (const idx in _users) {
+        if (_users[idx].id === id) {
+            isUserExists = !isUserExists;
+            _users.splice(idx, 1);
+            break;
+        }
     }
 
-    return {statusCode: 409, error: true, message: 'User Doesn\'t Exists'};
-
+    return isUserExists
+        ? { statusCode: 200, error: false, message: 'The Account Is Deleted.' }
+        : { statusCode: 409, error: true, message: "User Doesn't Exist" };
 }
 ```
 

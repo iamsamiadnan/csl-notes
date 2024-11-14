@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcee4eb44fe81ee",
+        "id": "45ae91d18f54fa2d",
         "type": "tabs",
         "children": [
           {
-            "id": "1622781e36db03db",
+            "id": "06e81d2c8da5f52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. JS Basics/7. ES6/6. Object, Array Desctruture.md",
+                "file": "3. Projects/Simple Todo App/MOD 001/MOD 001 - Todo App UI Static.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Object, Array Desctruture"
+              "title": "MOD 001 - Todo App UI Static"
+            }
+          },
+          {
+            "id": "80804e65f5a7dff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. JS Basics/11. API/11. API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. API"
+            }
+          },
+          {
+            "id": "20f4ff0d05963e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. JS Basics/11. API/11. API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. API"
+            }
+          },
+          {
+            "id": "23c671dbc4974455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. JS Basics/11. API/11. API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. API"
+            }
+          },
+          {
+            "id": "f8b7b797cfed3fbb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -52,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "445",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 200
   },
   "right": {
     "id": "417867d3b7a5ea46",
@@ -162,53 +217,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1622781e36db03db",
+  "active": "f8b7b797cfed3fbb",
   "lastOpenFiles": [
-    "1. JS Basics/7. ES6/5. Spread Operator.md",
-    "1. JS Basics/7. ES6/6. Object, Array Desctruture.md",
-    "2. DOM/2. JS Events/1. JS Events Theory.md",
-    "1. JS Basics/7. ES6/4. Arrow Function.md",
-    "1. JS Basics/4. Common-Math Functions/Math.max() - Math.min() -Infinty Vs Infinity.md",
-    "1. JS Basics/4. Common-Math Functions/4. Common-Math Functions.md",
-    "1. JS Basics/2. Function/2. Function.md",
-    "1. JS Basics/1. Objects/1. Objects.md",
-    "1. JS Basics/7. ES6/3. Template String.md",
-    "1. JS Basics/7. ES6/2. Func Default Parameter.md",
-    "1. JS Basics/7. ES6/1. Var, Let, Const.md",
-    "Console Project - Banking System/MOD 001/MOD 002 - Delete Account.md",
-    "Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
-    "Console Project - Banking System/Untitled",
-    "Console Project - Banking System/MOD 001/MOD 001 - Create Account Page UI.md",
-    "1. JS Basics/7. ES6",
-    "Pasted image 20241104143119.png",
-    "Pasted image 20241104123746.png",
-    "2. DOM/2. JS Events",
-    "2. DOM/2. JS Events",
-    "2. DOM/1. HTML DOM/2. HTML DOM JS.md",
-    "2. DOM/1. HTML DOM/1. HTML DOM Theory.md",
-    "2. DOM/1. HTML DOM/Pasted image 20241031151925.png",
-    "Console Project - Banking System/MOD 001",
-    "Console Project - Banking System/MOD 001/Pasted image 20241029230521.png",
+    "1. JS Basics/11. API/API.md",
+    "1. JS Basics/11. API/11. API.md",
+    "1. JS Basics/11. API/How Browser Gets The Data.md",
+    "1. JS Basics/10. Back To Basics/10. Back To Basics.md",
+    "1. JS Basics/11. API",
+    "3. Projects/Simple Todo App/MOD 001/MOD 001 - Todo App UI Static.md",
+    "3. Projects/Simple Todo App/MOD 001/Box Sizing Border Box.md",
+    "Others/CSS Variables.md",
+    "Others",
+    "3. Projects/Simple Todo App/MOD 001/BEM.md",
+    "3. Projects/Simple Todo App/MOD 001",
+    "3. Projects/Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
+    "3. Projects/Simple Todo App",
+    "3. Projects",
     "SRS for ${Project Name}.md",
-    "1. JS Basics/6. Common Problems/6. Common Problems.md",
-    "Console Project - Banking System",
-    "Pasted image 20241028155305.png",
-    "Pasted image 20241028154445.png",
-    "2. DOM/1. HTML DOM",
-    "2. DOM/1. HTML DOM/Pasted image 20241028153827.png",
-    "2. JS VS DOM/Untitled",
-    "2. DOM",
-    "1. JS Basics",
-    "1. JS Basics/3. Array-Operations/3. Array-Operations.md",
-    "1. JS Basics/3. Array-Operations/Implicit Global Variable.md",
-    "1. JS Basics/5. JS Date Time/5. JS Date Time.md",
-    "Untitled.md",
-    "6. Array VS Objects.md",
-    "Math.max()/ Math.min() -Infinty Vs Infinity.md",
-    "Pasted image 20241024211114.png",
-    "SRS for Bankora.md",
-    "Pasted image 20241024152915.png",
-    "Functions.md",
-    "Pasted image 20241024151705.png"
+    "2. DOM/2. JS Events/Pasted image 20241104123746.png",
+    "2. DOM/1. HTML DOM/Pasted image 20241028155305.png",
+    "2. DOM/1. HTML DOM/1. HTML DOM Theory.md",
+    "2. DOM/1. HTML DOM/Pasted image 20241028154445.png",
+    "2. DOM/2. JS Events/Pasted image 20241104143119.png",
+    "2. DOM/1. HTML DOM/Pasted image 20241031151925.png",
+    "3. Projects/Console Project - Banking System/MOD 001/MOD 003 - Balance Deposit.md",
+    "1. JS Basics/10. Back To Basics/BigInt.md",
+    "1. JS Basics/10. Back To Basics/Why NULL is an object in JS.md",
+    "1. JS Basics/10. Back To Basics/Pasted image 20241111162341.png",
+    "Pasted image 20241111162321.png",
+    "Pasted image 20241111162328.png",
+    "1. JS Basics/10. Back To Basics/Pasted image 20241111152833.png",
+    "1. JS Basics/10. Back To Basics/Pasted image 20241111152612.png",
+    "1. JS Basics/10. Back To Basics",
+    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce/3. forEach, filter, find, reduce.md",
+    "1. JS Basics/9. More ES6/2. Map/2. Map.md",
+    "1. JS Basics/9. More ES6/1. Optional Chaining/1. Optional Chaining.md",
+    "3. Projects/Console Project - Banking System/MOD 001/MOD 002 - Delete Account.md",
+    "1. JS Basics/9. More ES6/4. Class/4. Class.md",
+    "1. JS Basics/9. More ES6/4. Class",
+    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce/Reduce Explanation.md",
+    "1. JS Basics/9. More ES6/2. Map/Map Explanation.md",
+    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce",
+    "1. JS Basics/9. More ES6/3. forEach/Untitled.md",
+    "1. JS Basics/9. More ES6/3. forEach",
+    "1. JS Basics/9. More ES6/2. Map/map() func explanation.md",
+    "1. JS Basics/9. More ES6/1. Optional Chaining",
+    "1. JS Basics/1. Objects/1. Objects.md",
+    "1. JS Basics/7. ES6/6. Object, Array Desctruture.md",
+    "1. JS Basics/7. ES6/5. Spread Operator.md"
   ]
 }

@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "45ae91d18f54fa2d",
+        "id": "b22fd20629b0c147",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b7b797cfed3fbb",
+            "id": "5b2d3b0764428c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. JS Basics/11. API/11. API.md",
+                "file": "React/2. Core Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. API"
-            }
-          },
-          {
-            "id": "1d628ccbb3d9f7b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Projects/Libray Management System/Supabase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supabase"
-            }
-          },
-          {
-            "id": "7767762745082e15",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "2. Core Concepts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 219.5
   },
   "right": {
     "id": "417867d3b7a5ea46",
@@ -189,14 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7767762745082e15",
+  "active": "5b2d3b0764428c7a",
   "lastOpenFiles": [
-    "1. JS Basics/11. API/11. API.md",
-    "1. JS Basics/10. Back To Basics/10. Back To Basics.md",
+    "React/1. Intro.md",
+    "React/Expression VS Statement.md",
+    "React/2. Core Concepts.md",
+    "SRS for ${Project Name}.md",
+    "3. Projects/Simple Todo App/MOD 001/Box Sizing Border Box.md",
+    "3. Projects/Simple Todo App/MOD 001/BEM.md",
     "3. Projects/Libray Management System/Supabase.md",
+    "3. Projects/Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
+    "1. JS Basics/10. Back To Basics/10. Back To Basics.md",
+    "1. JS Basics/11. API/How Browser Gets The Data.md",
+    "1. JS Basics/11. API/11. API.md",
+    "Others/CSS Variables.md",
+    "When Re-Renders!.md",
+    "Transpiler.md",
+    "React/Pasted image 20241120152347.png",
+    "React/Pasted image 20241120134334.png",
+    "React",
     "1. JS Basics/11. API/API.md",
     "1. JS Basics/11. API/12. Auth.md",
-    "1. JS Basics/11. API/How Browser Gets The Data.md",
     "1. JS Basics/10. Back To Basics/BigInt.md",
     "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce/3. forEach, filter, find, reduce.md",
     "3. Projects/Simple Todo App/MOD 001/MOD 001 - Todo App UI Static.md",
@@ -204,16 +190,11 @@
     "Project Names.md",
     "1. JS Basics/10. Back To Basics/Sync ASync.md",
     "1. JS Basics/10. Back To Basics/Why NULL is an object in JS.md",
-    "3. Projects/Console Project - Banking System/MOD 001/MOD 001 - Create Account.md",
     "1. JS Basics/11. API",
-    "3. Projects/Simple Todo App/MOD 001/Box Sizing Border Box.md",
-    "Others/CSS Variables.md",
     "Others",
-    "3. Projects/Simple Todo App/MOD 001/BEM.md",
     "3. Projects/Simple Todo App/MOD 001",
     "3. Projects/Simple Todo App",
     "3. Projects",
-    "SRS for ${Project Name}.md",
     "2. DOM/2. JS Events/Pasted image 20241104123746.png",
     "2. DOM/1. HTML DOM/Pasted image 20241028155305.png",
     "2. DOM/1. HTML DOM/1. HTML DOM Theory.md",
@@ -224,18 +205,10 @@
     "1. JS Basics/10. Back To Basics/Pasted image 20241111162341.png",
     "Pasted image 20241111162321.png",
     "Pasted image 20241111162328.png",
-    "1. JS Basics/10. Back To Basics/Pasted image 20241111152833.png",
-    "1. JS Basics/10. Back To Basics/Pasted image 20241111152612.png",
     "1. JS Basics/10. Back To Basics",
     "1. JS Basics/9. More ES6/2. Map/2. Map.md",
     "1. JS Basics/9. More ES6/1. Optional Chaining/1. Optional Chaining.md",
-    "3. Projects/Console Project - Banking System/MOD 001/MOD 002 - Delete Account.md",
-    "1. JS Basics/9. More ES6/4. Class/4. Class.md",
     "1. JS Basics/9. More ES6/4. Class",
-    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce/Reduce Explanation.md",
-    "1. JS Basics/9. More ES6/2. Map/Map Explanation.md",
-    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce",
-    "1. JS Basics/9. More ES6/3. forEach/Untitled.md",
-    "1. JS Basics/9. More ES6/3. forEach"
+    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce"
   ]
 }

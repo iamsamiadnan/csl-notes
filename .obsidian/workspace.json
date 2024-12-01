@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4f0ba6ea50d39fa",
+            "id": "47707673940305d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "1. React Router"
-            }
-          },
-          {
-            "id": "47707673940305d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Libs/useEffect VS Load Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "useEffect VS Load Data"
             }
           }
         ]
@@ -91,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "417867d3b7a5ea46",
@@ -176,15 +162,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4f0ba6ea50d39fa",
+  "active": "47707673940305d3",
   "lastOpenFiles": [
-    "Libs.md",
-    "React/Replacer Function.md",
     "React/2. Core Concepts.md",
+    "React/6. Authentication VS Authorization.md",
+    "Pasted image 20241130122415.png",
+    "React/5. Context API.md",
+    "Libs.md",
+    "React/Libs/useEffect VS Load Data.md",
+    "React/4. Custom Hook.md",
+    "React/3. Form.md",
+    "React/Untitled.md",
+    "React/Higher-Order Component (HOC).md",
+    "React/Libs/1. React Router.md",
+    "React/Libs/Pasted image 20241129130156.png",
+    "React/Libs/Pasted image 20241129130050.png",
+    "React/Replacer Function.md",
     "React/1. Intro.md",
     "React/Expression VS Statement.md",
-    "React/Libs/1. React Router.md",
-    "React/Libs/useEffect VS Load Data.md",
     "1. JS Basics/12. Cookies, LocalStorage/1. LocalStorage.md",
     "React/Libs",
     "1. JS Basics/10. Back To Basics/10. Back To Basics.md",
@@ -205,14 +200,7 @@
     "React/Pasted image 20241120152347.png",
     "React/Pasted image 20241120134334.png",
     "React",
-    "1. JS Basics/11. API/API.md",
-    "1. JS Basics/11. API/12. Auth.md",
-    "1. JS Basics/10. Back To Basics/BigInt.md",
-    "1. JS Basics/9. More ES6/3. forEach, filter, find, reduce/3. forEach, filter, find, reduce.md",
-    "3. Projects/Simple Todo App/MOD 001/MOD 001 - Todo App UI Static.md",
     "3. Projects/Libray Management System",
-    "Project Names.md",
-    "1. JS Basics/10. Back To Basics/Sync ASync.md",
     "1. JS Basics/11. API",
     "Others",
     "3. Projects/Simple Todo App/MOD 001",
@@ -220,9 +208,6 @@
     "3. Projects",
     "2. DOM/2. JS Events/Pasted image 20241104123746.png",
     "2. DOM/1. HTML DOM/Pasted image 20241028155305.png",
-    "2. DOM/1. HTML DOM/Pasted image 20241028154445.png",
-    "2. DOM/2. JS Events/Pasted image 20241104143119.png",
-    "2. DOM/1. HTML DOM/Pasted image 20241031151925.png",
-    "1. JS Basics/10. Back To Basics/Pasted image 20241111162341.png"
+    "2. DOM/1. HTML DOM/Pasted image 20241028154445.png"
   ]
 }

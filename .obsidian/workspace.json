@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Libs/1. React Router.md",
+                "file": "React/6. Authentication VS Authorization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. React Router"
+              "title": "6. Authentication VS Authorization"
             }
           }
         ]
@@ -162,19 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47707673940305d3",
+  "active": "7a7247d277f9506b",
   "lastOpenFiles": [
-    "React/2. Core Concepts.md",
-    "React/6. Authentication VS Authorization.md",
-    "Pasted image 20241130122415.png",
     "React/5. Context API.md",
-    "Libs.md",
-    "React/Libs/useEffect VS Load Data.md",
     "React/4. Custom Hook.md",
     "React/3. Form.md",
+    "React/2. Core Concepts.md",
+    "React/Libs/1. React Router.md",
+    "React/6. Authentication VS Authorization.md",
+    "React/Libs/useEffect VS Load Data.md",
+    "Libs.md",
+    "Pasted image 20241130122415.png",
     "React/Untitled.md",
     "React/Higher-Order Component (HOC).md",
-    "React/Libs/1. React Router.md",
     "React/Libs/Pasted image 20241129130156.png",
     "React/Libs/Pasted image 20241129130050.png",
     "React/Replacer Function.md",

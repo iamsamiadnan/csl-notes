@@ -162,19 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a7247d277f9506b",
+  "active": "47707673940305d3",
   "lastOpenFiles": [
     "React/5. Context API.md",
     "React/4. Custom Hook.md",
     "React/3. Form.md",
-    "React/2. Core Concepts.md",
-    "React/Libs/1. React Router.md",
     "React/6. Authentication VS Authorization.md",
+    "React/2. Core Concepts.md",
     "React/Libs/useEffect VS Load Data.md",
+    "React/Libs/1. React Router.md",
+    "React/Higher-Order Component (HOC).md",
     "Libs.md",
     "Pasted image 20241130122415.png",
     "React/Untitled.md",
-    "React/Higher-Order Component (HOC).md",
     "React/Libs/Pasted image 20241129130156.png",
     "React/Libs/Pasted image 20241129130050.png",
     "React/Replacer Function.md",
